@@ -82,5 +82,18 @@ Here are some ideas to get you started:
       </a>
       <br>Next
     </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/redux.svg" width="36" height="36" alt="Redux-T icon" />
+      </a>
+      <br>Redux-T
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/form.js.svg" width="36" height="36" alt="React-form icon" />
+      </a>
+      <br>React-form
+    </td>
+
   </tr>
 </table>
