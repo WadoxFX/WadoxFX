@@ -63,5 +63,26 @@ Here are some ideas to get you started:
       </a>
       <br>Figma
     </td>
-  </tr> 
+  </tr>
+</table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/react.svg" width="36" height="36" alt="React icon" />
+      </a>
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/next.js.svg" width="36" height="36" alt="Next icon" />
+      </a>
+      <br>Next
+    </td>
+  </tr>
 </table>
