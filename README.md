@@ -21,6 +21,18 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/javascript.svg" width="36" height="36" alt="HTML icon" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/javascript.svg" width="36" height="36" alt="CSS icon" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/javascript.svg" width="36" height="36" alt="JavaScript icon" />
       </a>
       <br>JavaScript
