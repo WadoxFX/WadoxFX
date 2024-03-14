@@ -104,7 +104,7 @@ Here are some ideas to get you started:
       <a href="#skills">
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/socket-io.svg" width="36" height="36" alt="Socket-io-client icon" />
       </a>
-      <br>Socket-io
+      <br>Socket.io
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
@@ -148,6 +148,12 @@ Here are some ideas to get you started:
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/mongodb.svg" width="36" height="36" alt="Mongodb icon" />
       </a>
       <br>MongoDB
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/jwt.svg" width="36" height="36" alt="JWT icon" />
+      </a>
+      <br>JWT
     </td>
   </tr>
 </table>
