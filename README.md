@@ -169,3 +169,16 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/cypress.svg" width="36" height="36" alt="Cypress icon" />
+      </a>
+      <br>Cypress
+    </td>
+  </tr>
+</table>
