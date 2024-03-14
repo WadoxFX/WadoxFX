@@ -1,3 +1,5 @@
+[![Header](https://github.com/WadoxFX/WadoxFX/blob/main/images/galaxy.gif)]
+
 ### Hi there 👋
 
 <!--
