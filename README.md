@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       <a href="#skills">
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/html.svg" width="36" height="36" alt="HTML icon" />
       </a>
-      <br>HTML
+      <br>HTML5
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
       <a href="#skills">
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/form.png" width="36" height="36" alt="React-form icon" />
       </a>
-      <br>React-form
+      <br>R-Form
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
