@@ -137,5 +137,17 @@ Here are some ideas to get you started:
       </a>
       <br>Node JS
     </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/express.svg" width="36" height="36" alt="Express icon" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/mongodb.svg" width="36" height="36" alt="Mongodb icon" />
+      </a>
+      <br>MongoDB
+    </td>
   </tr>
 </table>
