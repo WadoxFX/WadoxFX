@@ -112,5 +112,11 @@ Here are some ideas to get you started:
       </a>
       <br>Framer-M
     </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/scss.svg" width="36" height="36" alt="Sass icon" />
+      </a>
+      <br>Sass
+    </td>
   </tr>
 </table>
