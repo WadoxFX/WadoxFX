@@ -118,5 +118,11 @@ Here are some ideas to get you started:
       </a>
       <br>Framer-M
     </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/vite.svg" width="36" height="36" alt="Vite icon" />
+      </a>
+      <br>Vite
+    </td>
   </tr>
 </table>
