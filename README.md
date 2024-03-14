@@ -124,6 +124,12 @@ Here are some ideas to get you started:
       </a>
       <br>Vite
     </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/axios.svg" width="36" height="36" alt="Axios icon" />
+      </a>
+      <br>Axios
+    </td>
   </tr>
 </table>
 
@@ -157,7 +163,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/socket-io.svg" width="36" height="36" alt="Socket-io-client icon" />
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/socket-io.svg" width="36" height="36" alt="Socket-io icon" />
       </a>
       <br>Socket.io
     </td>
