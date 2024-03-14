@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h2 id="skills">My skills</h2>
 
+> Basic
+
 <table width='100%'>
   <tr>
     <td align="center" width="100" height="100">
@@ -36,6 +38,12 @@ Here are some ideas to get you started:
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/javascript.svg" width="36" height="36" alt="JavaScript icon" />
       </a>
       <br>JavaScript
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/typescript.svg" width="36" height="36" alt="TypeScript icon" />
+      </a>
+      <br>TypeScript
     </td>
   </tr> 
 </table>
