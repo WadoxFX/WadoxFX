@@ -96,10 +96,15 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/socket-io.svg" width="36" height="36" alt="Socket-io icon" />
+      </a>
+      <br>Socket-io
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/framer-motion.svg" width="36" height="36" alt="Framer-motion icon" />
       </a>
       <br>Framer-M
     </td>
-
   </tr>
 </table>
