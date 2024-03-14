@@ -126,3 +126,16 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/node.svg" width="36" height="36" alt="Node JS icon" />
+      </a>
+      <br>Node JS
+    </td>
+  </tr>
+</table>
