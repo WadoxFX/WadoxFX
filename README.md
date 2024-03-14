@@ -80,7 +80,7 @@ Here are some ideas to get you started:
       <a href="#skills">
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/next.js.svg" width="36" height="36" alt="Next icon" />
       </a>
-      <br>Next 'v13.4≥'
+      <br>Next v13.4≥
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
