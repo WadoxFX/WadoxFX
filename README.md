@@ -74,7 +74,7 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/next.js.svg" width="36" height="36" alt="Next icon" />
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/next.js.png" width="36" height="36" alt="Next icon" />
       </a>
       <br>Next.v13.4≥
     </td>
@@ -136,6 +136,12 @@
 
 <table width='100%'>
   <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/nestjs.svg" width="36" height="36" alt="Nest JS icon" />
+      </a>
+      <br>Nest JS
+    </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/node.svg" width="36" height="36" alt="Node JS icon" />
