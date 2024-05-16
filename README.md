@@ -6,7 +6,7 @@
 
 <ul>
   <li>🌍 I know languages: UA(C2) RU(C2) EN(B1)</li>
-  <li>⛏️ Commercial experience 0.5 years</li>
+  <li>⛏️ Commercial experience 6 months</li>
   <li>🎓 Education: Software Engineer (121)</li>
   <li>⤴️ Alternative direction: Backend</li>
 </ul>
