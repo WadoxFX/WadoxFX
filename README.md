@@ -13,6 +13,31 @@
 
 <h2 id="skills">My skills</h2>
 
+> Languages
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/javascript.svg" width="36" height="36" alt="JavaScript icon" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/typescript.svg" width="36" height="36" alt="TypeScript icon" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/typescript.svg" width="36" height="36" alt="Solidity icon" />
+      </a>
+      <br>Solidity
+    </td>
+    </tr>
+</table>
+
 > Basic
 
 <table width='100%'>
@@ -28,18 +53,6 @@
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/css.svg" width="36" height="36" alt="CSS icon" />
       </a>
       <br>CSS
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/javascript.svg" width="36" height="36" alt="JavaScript icon" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/typescript.svg" width="36" height="36" alt="TypeScript icon" />
-      </a>
-      <br>TypeScript
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
@@ -129,6 +142,12 @@
       </a>
       <br>Axios
     </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/zod.svg" width="36" height="36" alt="Zod icon" />
+      </a>
+      <br>Zod
+    </td>
   </tr>
 </table>
 
@@ -175,6 +194,37 @@
   </tr>
 </table>
 
+> Blockchain
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/ethers.svg" width="36" height="36" alt="Ethers icon" />
+      </a>
+      <br>Ethers
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/hardhat.svg" width="36" height="36" alt="Hardhat icon" />
+      </a>
+      <br>Hardhat
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/ganache.svg" width="36" height="36" alt="Ganache icon" />
+      </a>
+      <br>Ganache
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/metaMask.svg" width="36" height="36" alt="MetaMask icon" />
+      </a>
+      <br>MetaMask
+    </td>
+  </tr>
+</table>
+
 > Testing
 
 <table width='100%'>
@@ -198,6 +248,12 @@
         <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/prettier.svg" width="36" height="36" alt="Prettier icon" />
       </a>
       <br>Prettier
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/eslint.svg" width="36" height="36" alt="Eslint icon" />
+      </a>
+      <br>Eslint
     </td>
   </tr>
 </table>
