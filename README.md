@@ -31,7 +31,7 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/typescript.svg" width="36" height="36" alt="Solidity icon" />
+        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/solidity.svg" width="36" height="36" alt="Solidity icon" />
       </a>
       <br>Solidity
     </td>
