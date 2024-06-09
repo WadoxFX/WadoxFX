@@ -1,4 +1,4 @@
-<a href="https://github.com/WadoxFX"><img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/header.gif" alt="Header"></a>
+<a href="https://github.com/WadoxFX"><img src="./images/header.gif" alt="Header"></a>
 
 # Hello! I'm Dmitry Lustyuk 👋
 
@@ -19,19 +19,19 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/javascript.svg" width="36" height="36" alt="JavaScript icon" />
+        <img src="./images/javascript.svg" width="36" height="36" alt="JavaScript icon" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/typescript.svg" width="36" height="36" alt="TypeScript icon" />
+        <img src="./images/typescript.svg" width="36" height="36" alt="TypeScript icon" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/solidity.svg" width="36" height="36" alt="Solidity icon" />
+        <img src="./images/solidity.svg" width="36" height="36" alt="Solidity icon" />
       </a>
       <br>Solidity
     </td>
@@ -44,31 +44,31 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/html.svg" width="36" height="36" alt="HTML icon" />
+        <img src="./images/html.svg" width="36" height="36" alt="HTML icon" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/css.svg" width="36" height="36" alt="CSS icon" />
+        <img src="./images/css.svg" width="36" height="36" alt="CSS icon" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/npm.svg" width="36" height="36" alt="NPM icon" />
+        <img src="./images/npm.svg" width="36" height="36" alt="NPM icon" />
       </a>
       <br>NPM
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/github.svg" width="36" height="36" alt="GitHub icon" />
+        <img src="./images/github.svg" width="36" height="36" alt="GitHub icon" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/figma.svg" width="36" height="36" alt="Figma icon" />
+        <img src="./images/figma.svg" width="36" height="36" alt="Figma icon" />
       </a>
       <br>Figma
     </td>
@@ -81,43 +81,43 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/react.svg" width="36" height="36" alt="React icon" />
+        <img src="./images/react.svg" width="36" height="36" alt="React icon" />
       </a>
       <br>React
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/next.js.png" width="36" height="36" alt="Next icon" />
+        <img src="./images/next.js.png" width="36" height="36" alt="Next icon" />
       </a>
       <br>Next.v13.4≥
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/redux.svg" width="36" height="36" alt="Redux-T icon" />
+        <img src="./images/redux.svg" width="36" height="36" alt="Redux-T icon" />
       </a>
       <br>Redux-T
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/form.png" width="36" height="36" alt="React-form icon" />
+        <img src="./images/form.png" width="36" height="36" alt="React-form icon" />
       </a>
       <br>React-Form
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/sass.svg" width="36" height="36" alt="Sass icon" />
+        <img src="./images/sass.svg" width="36" height="36" alt="Sass icon" />
       </a>
       <br>Sass
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/socket-io.svg" width="36" height="36" alt="Socket-io-client icon" />
+        <img src="./images/socket-io.svg" width="36" height="36" alt="Socket-io-client icon" />
       </a>
       <br>Socket.io
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/swr.svg" width="36" height="36" alt="SWR icon" />
+        <img src="./images/swr.svg" width="36" height="36" alt="SWR icon" />
       </a>
       <br>SWR
     </td>
@@ -126,27 +126,33 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/framer-motion.svg" width="36" height="36" alt="Framer-motion icon" />
+        <img src="./images/framer-motion.svg" width="36" height="36" alt="Framer-motion icon" />
       </a>
       <br>Framer-M
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/vite.svg" width="36" height="36" alt="Vite icon" />
+        <img src="./images/vite.svg" width="36" height="36" alt="Vite icon" />
       </a>
       <br>Vite
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/axios.svg" width="36" height="36" alt="Axios icon" />
+        <img src="./images/axios.svg" width="36" height="36" alt="Axios icon" />
       </a>
       <br>Axios
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/zod.svg" width="36" height="36" alt="Zod icon" />
+        <img src="./images/zod.svg" width="36" height="36" alt="Zod icon" />
       </a>
       <br>Zod
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/apollo.svg" width="36" height="36" alt="Apollo Client icon" />
+      </a>
+      <br>Apollo Client
     </td>
   </tr>
 </table>
@@ -157,39 +163,54 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/nestjs.svg" width="36" height="36" alt="Nest JS icon" />
+        <img src="./images/nestjs.svg" width="36" height="36" alt="Nest JS icon" />
       </a>
       <br>Nest JS
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/node.svg" width="36" height="36" alt="Node JS icon" />
+        <img src="./images/node.svg" width="36" height="36" alt="Node JS icon" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/express.svg" width="36" height="36" alt="Express icon" />
+        <img src="./images/express.svg" width="36" height="36" alt="Express icon" />
       </a>
       <br>Express
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/mongodb.svg" width="36" height="36" alt="Mongodb icon" />
+        <img src="./images/mongodb.svg" width="36" height="36" alt="Mongodb icon" />
       </a>
       <br>MongoDB
     </td>
+      <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/graphql.svg" width="36" height="36" alt="GraphQL icon" />
+      </a>
+      <br>GraphQL
+    </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/jwt.svg" width="36" height="36" alt="JWT icon" />
+        <img src="./images/jwt.svg" width="36" height="36" alt="JWT icon" />
       </a>
       <br>JWT
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/socket-io.svg" width="36" height="36" alt="Socket-io icon" />
+        <img src="./images/socket-io.svg" width="36" height="36" alt="Socket-io icon" />
       </a>
       <br>Socket.io
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/apollo.svg" width="36" height="36" alt="Apollo Server icon" />
+      </a>
+      <br>Apollo Server
     </td>
   </tr>
 </table>
@@ -200,25 +221,31 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/ethers.svg" width="36" height="36" alt="Ethers icon" />
+        <img src="./images/web3.svg" width="36" height="36" alt="Web3 icon" />
+      </a>
+      <br>Web3
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/ethers.svg" width="36" height="36" alt="Ethers icon" />
       </a>
       <br>Ethers
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/hardhat.svg" width="36" height="36" alt="Hardhat icon" />
+        <img src="./images/hardhat.svg" width="36" height="36" alt="Hardhat icon" />
       </a>
       <br>Hardhat
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/ganache.svg" width="36" height="36" alt="Ganache icon" />
+        <img src="./images/ganache.svg" width="36" height="36" alt="Ganache icon" />
       </a>
       <br>Ganache
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/metaMask.svg" width="36" height="36" alt="MetaMask icon" />
+        <img src="./images/metaMask.svg" width="36" height="36" alt="MetaMask icon" />
       </a>
       <br>MetaMask
     </td>
@@ -231,7 +258,7 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/cypress.svg" width="36" height="36" alt="Cypress icon" />
+        <img src="./images/cypress.svg" width="36" height="36" alt="Cypress icon" />
       </a>
       <br>Cypress
     </td>
@@ -245,13 +272,13 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/prettier.svg" width="36" height="36" alt="Prettier icon" />
+        <img src="./images/prettier.svg" width="36" height="36" alt="Prettier icon" />
       </a>
       <br>Prettier
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="https://github.com/WadoxFX/WadoxFX/blob/main/images/eslint.svg" width="36" height="36" alt="Eslint icon" />
+        <img src="./images/eslint.svg" width="36" height="36" alt="Eslint icon" />
       </a>
       <br>Eslint
     </td>
