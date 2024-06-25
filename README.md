@@ -95,7 +95,7 @@
       <a href="#skills">
         <img src="./images/redux.svg" width="36" height="36" alt="Redux-T icon" />
       </a>
-      <br>Redux-T
+      <br>Redux
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
@@ -113,7 +113,7 @@
       <a href="#skills">
         <img src="./images/form.png" width="36" height="36" alt="React-form icon" />
       </a>
-      <br>React-Form
+      <br>Forms
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
@@ -164,7 +164,7 @@
       <a href="#skills">
         <img src="./images/apollo.svg" width="36" height="36" alt="Apollo Client icon" />
       </a>
-      <br>Apollo Client
+      <br>Apollo
     </td>
   </tr>
 </table>
@@ -222,7 +222,7 @@
       <a href="#skills">
         <img src="./images/apollo.svg" width="36" height="36" alt="Apollo Server icon" />
       </a>
-      <br>Apollo Server
+      <br>Apollo
     </td>
   </tr>
 </table>
