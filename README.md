@@ -87,15 +87,27 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="./images/next.js.png" width="36" height="36" alt="Next icon" />
+        <img src="./images/next.png" width="36" height="36" alt="Next icon" />
       </a>
-      <br>Next.v13.4≥
+      <br>Next JS
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
         <img src="./images/redux.svg" width="36" height="36" alt="Redux-T icon" />
       </a>
       <br>Redux-T
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/zustand.svg" width="36" height="36" alt="Zustand icon" />
+      </a>
+      <br>Zustand
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/recoil.svg" width="36" height="36" alt="Recoil icon" />
+      </a>
+      <br>Recoil
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
@@ -109,6 +121,9 @@
       </a>
       <br>Sass
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
         <img src="./images/socket-io.svg" width="36" height="36" alt="Socket-io-client icon" />
@@ -121,9 +136,6 @@
       </a>
       <br>SWR
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="100" height="100">
       <a href="#skills">
         <img src="./images/framer-motion.svg" width="36" height="36" alt="Framer-motion icon" />
