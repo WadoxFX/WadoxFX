@@ -111,19 +111,25 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
-        <img src="./images/form.png" width="36" height="36" alt="React-form icon" />
-      </a>
-      <br>Forms
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#skills">
         <img src="./images/sass.svg" width="36" height="36" alt="Sass icon" />
       </a>
       <br>Sass
     </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/tailwind.svg" width="36" height="36" alt="Tailwind icon" />
+      </a>
+      <br>Tailwind
+    </td>
   </tr>
 
   <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/form.png" width="36" height="36" alt="React-form icon" />
+      </a>
+      <br>Forms
+    </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
         <img src="./images/socket-io.svg" width="36" height="36" alt="Socket-io-client icon" />
@@ -160,11 +166,26 @@
       </a>
       <br>Zod
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/tanstack.png" width="36" height="36" alt="Apollo icon" />
+      </a>
+      <br>TanStack Router
+    </td>
     <td align="center" width="100" height="100">
       <a href="#skills">
         <img src="./images/apollo.svg" width="36" height="36" alt="Apollo Client icon" />
       </a>
       <br>Apollo
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#skills">
+        <img src="./images/auth0.svg" width="36" height="36" alt="Auth0 icon" />
+      </a>
+      <br>Auth0
     </td>
   </tr>
 </table>
